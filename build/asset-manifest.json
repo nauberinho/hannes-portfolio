@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8ef75ec0.chunk.css",
+    "main.js": "/static/js/main.37e6f3df.chunk.js",
+    "main.js.map": "/static/js/main.37e6f3df.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e312f208.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e312f208.js.map",
+    "static/js/2.b48a6051.chunk.js": "/static/js/2.b48a6051.chunk.js",
+    "static/js/2.b48a6051.chunk.js.map": "/static/js/2.b48a6051.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3673010ef17c5e65767d669a88a6efbd.js": "/precache-manifest.3673010ef17c5e65767d669a88a6efbd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8ef75ec0.chunk.css.map": "/static/css/main.8ef75ec0.chunk.css.map",
+    "static/js/2.b48a6051.chunk.js.LICENSE.txt": "/static/js/2.b48a6051.chunk.js.LICENSE.txt",
+    "static/media/ansokan.jpg": "/static/media/ansokan.1577bd23.jpg",
+    "static/media/design.jpeg": "/static/media/design.84022520.jpeg",
+    "static/media/ditthus.jpeg": "/static/media/ditthus.b79388fd.jpeg",
+    "static/media/entreprenad.jpeg": "/static/media/entreprenad.3bcf9523.jpeg",
+    "static/media/leverans.jpg": "/static/media/leverans.60a2e124.jpg",
+    "static/media/me2.png": "/static/media/me2.6caec413.png",
+    "static/media/mobilkran.jpg": "/static/media/mobilkran.48813f7e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e312f208.js",
+    "static/js/2.b48a6051.chunk.js",
+    "static/css/main.8ef75ec0.chunk.css",
+    "static/js/main.37e6f3df.chunk.js"
+  ]
+}
